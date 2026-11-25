@@ -1,4 +1,8 @@
 # Portafolio
+Este portafolio quería que se vea principalmente limpio y ordenado. No quería añadir demasiados aspectos visuales que dificulten, el objetivo de mi portafolio que busca transmitir quien soy y que hago.
+El landing consiste en mi nombre en grande moviéndose y atrás un fondo de cristal para transmitir no solo transparencia y limpieza sino también corporativismo y pureza, que son algunos de los valores que quiero transmitir sobre mí a aquella persona que lea mi portafolio.
+
+A medida que vas deslizándote hacia abajo en el portafolio llegas primero a la sección que habla sobre mí y luego la de proyectos, cada uno separado, esto lo he hecho a propósito de seccionar por separado no solo cada proyecto si no la parte sobre mí también, para así estar enfocado en solo una cosa a la vez y no tener demasiado elementos visuales como las imágenes de cada proyecto en una pantalla que hacen que tus ojos vayan de una a otra sin poder enfocarte cada cosa a cada tiempo. Por ello también las imágenes de cada proyecto solo pueden verse si abres la pestaña de cada uno.
 
 ## Conceptos
 HTML: Es un lenguaje de mercado y no de hipertexto, se encarga de definir la estructura y el significado de las páginas web, en mi caso lo usé para dar estructura a la página web de mi portafolio.
