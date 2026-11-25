@@ -50,6 +50,8 @@ Uno de los mayores problemas que tenía con esta asignatura era llegar tarde, lo
 ### Créditos
 
 Diseño web desarrollado con React y componentes de save.design.
+
 Tipografía: BDO Grotesk - Deni Anggara
+
 Uso de la IA a lo largo del semestre: Kimi, Gemini, Antigravity, Claude.
 
